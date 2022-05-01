@@ -1,0 +1,12 @@
+How to start:
+    - Make sure you have nodejs installed in your system.
+    - Make sure you have expo installed. https://docs.expo.dev/get-started/installation/
+    - Make sure you have expo installed on your phone. https://apps.apple.com/us/app/expo-go/id982107779
+      P.S. The app was initially developed for iphone, be aware of issues when if you try android.
+    - To Install all dependencies: "npm install"
+    - To Run Application run: "npm start"
+    - After an application booted up, open your iphone, open your camera and look at the QRCode in your console, this will redirect to
+      expo app on your phone and start an application on your phone which you can interact with.
+
+Contributions: 
+    All members of the group did equal work on this project.
