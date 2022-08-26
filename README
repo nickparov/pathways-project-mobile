@@ -1,5 +1,5 @@
 How to start:
-    - Make sure you have nodejs installed in your system.
+    - Make sure you have nodejs v16^ installed in your system.
     - Make sure you have expo installed. https://docs.expo.dev/get-started/installation/
     - Make sure you have expo installed on your phone. https://apps.apple.com/us/app/expo-go/id982107779
       P.S. The app was initially developed for iphone, be aware of issues when if you try android.
