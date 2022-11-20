@@ -7,6 +7,3 @@ How to start:
     - To Run Application run: "npm start"
     - After an application booted up, open your iphone, open your camera and look at the QRCode in your console, this will redirect to
       expo app on your phone and start an application on your phone which you can interact with.
-
-Contributions: 
-    All members of the group did equal work on this project.
